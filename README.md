@@ -56,9 +56,9 @@
      docker stop <container id>
      docker rm -f netflix
   ```
-** Note :- It will show an error cause you need API key**
+**Note :- It will show an error cause you need API key**
 
-** Step 4: Docker image with API key**
+**Step 4: Docker image with API key**
 - Follow the given key :-
 
   ```bash
