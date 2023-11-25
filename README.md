@@ -32,3 +32,10 @@
     git clone https://github.com/Ravichandra89/DevOps-Project.git
     ```
     
+**Step 3: Install Docker and Run the App Using a Container:
+  ```bash
+  sudo apt-get update
+  sudo apt-get install docker.io -y
+  ```
+
+**
